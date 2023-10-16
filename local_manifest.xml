@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.com/YudhoPatrianto" />
+  <remote name="origin" fetch="https://github.com/YudhoPatrianto"/>
 
   <!-- Sources Devices -->
-<project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="origin" revision="rising_rev1" />
-<project path="vendor/xiaomi/selene" name="vendor_xiaomi_selene.git" remote="origin" revision="13" />
-<project path="kernel/xiaomi/selene" name="kernel_xiaomi_selene.git" remote="origin" revision="ksu-test" />
-<project path="hardware/mediatek" name="hardware_mediatek.git" remote="origin" revision="13" />
-<project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="origin" revision="13" />
-<project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr.git" remote="origin" revision="13" /> 
-<project path="packages/apps/ImsService" name="packages_apps_ImsService" remote="origin" revision="13" /> 
+<project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="origin" revision="rising_rev1"/>
+<project path="vendor/xiaomi/selene" name="vendor_xiaomi_selene.git" remote="origin" revision="13"/>
+<project path="kernel/xiaomi/selene" name="kernel_xiaomi_selene.git" remote="origin" revision="ksu-test"/>
+<project path="hardware/mediatek" name="hardware_mediatek.git" remote="origin" revision="13"/>
+<project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="origin" revision="13"/>
+<project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr.git" remote="origin" revision="13"/> 
+<project path="packages/apps/ImsService" name="packages_apps_ImsService" remote="origin" revision="13"/> 
 </manifest>
