@@ -4,7 +4,7 @@
 <remote name="yudhoprjkt" fetch="https://github.com/YudhoPatrianto/android_device_xiaomi_selene.git"/>
  
  <!--Tree-->
-<project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="origin" revision="spark" />
+<project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="rising_rev1" revision="spark" />
 <project path="vendor/xiaomi/selene" name="android_vendor_xiaomi_selene.git" remote="origin" revision="13" />
 <project path="kernel/xiaomi/selene" name="android_kernel_xiaomi_selene.git" remote="origin" revision="tiramisu" />
 <project path="hardware/mediatek" name="hardware_mediatek.git" remote="origin" revision="13" />
