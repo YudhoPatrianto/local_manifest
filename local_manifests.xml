@@ -2,6 +2,11 @@
 <manifest>
 <remote name="origin" fetch="https://github.com/YudhoPatrianto"/>
 <remote name="yudhoprjkt" fetch="https://github.com/YudhoPatrianto/android_device_xiaomi_selene.git"/>
+
+<!--Remove-->
+<remove-project name="external/chromium-webview/prebuilt" />
+<remove-project name=".repo/projects/external/chromium-webview/prebuilt" />
+<remove-project name=".repo/project-objects/LineageOS/android_external_chromium-webview_prebuilt" />
  
  <!--Tree-->
 <project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="yudhoprjkt" revision="rising_rev1" />
