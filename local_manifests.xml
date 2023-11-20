@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="origin" fetch="https://github.com/YudhoPatrianto"/>
-<remote name="yudhoprjkt" fetch="https://github.com/YudhoPatrianto/android_device_xiaomi_selene.git"/>
-<remote name="origin" fetch="https://github.com/TelegramAt25/android_vendor_xiaomi_selene.git"/>
+<remote name="yudhoprjkt" fetch="https://github.com/YudhoPatrianto/android_device_xiaomi_selene.git" />
+<remote name="origin" fetch="https://github.com/TelegramAt25/android_vendor_xiaomi_selene.git" />
 
  
  <!--Tree-->
